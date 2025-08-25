@@ -90,4 +90,4 @@ Achieved high accuracy in detecting fake news
 
 Demonstrates the power of deep learning over traditional ML approaches
 
-After training for 5 epochs, the model achieved an accuracy of 99.27% in detecting fake news.
+After training for 5 epochs, the model achieved an accuracy of ### 99.27% in detecting fake news.
