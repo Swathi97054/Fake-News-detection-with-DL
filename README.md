@@ -44,7 +44,7 @@ tensorflow,
 scikit-learn, and 
 LSTM Neural Network
 
-#📊 Dataset
+# 📊 Dataset
 
 The project uses the Fake News Dataset (commonly available on Kaggle):
 
@@ -64,13 +64,13 @@ Text Preprocessing (stopword removal, tokenization, TF-IDF/word embeddings)
 
 Deep Learning Models:
 
-LSTM (Long Short-Term Memory)
+1. LSTM (Long Short-Term Memory)
 
-Bidirectional LSTM
+2. Bidirectional LSTM
 
-GRU (Gated Recurrent Unit)
+3. GRU (Gated Recurrent Unit)
 
-CNN for text classification
+4. CNN for text classification
 
 ## 🚀 Usage
 
@@ -90,5 +90,4 @@ Achieved high accuracy in detecting fake news
 
 Demonstrates the power of deep learning over traditional ML approaches
 
-
-# Accuracy: 99.27 (Train on 5 epochs)
+After training for 5 epochs, the model achieved an accuracy of 99.27% in detecting fake news.
